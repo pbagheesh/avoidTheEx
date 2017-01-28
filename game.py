@@ -1,4 +1,3 @@
-# John Dowling and Jay Huskins
 # CS269 Game Design
 # Jan 2017
 # Avoid the Ex
