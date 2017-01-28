@@ -1,0 +1,7 @@
+player: 920, 450, date: 480, 100, endpos: 10, 60, 
+ex1start: 270, 30, ex1end: 930, 30, 
+ex2start: 480, 210, ex2end: 690, 210, 
+ex3start: 480, 330, ex3end: 270, 510, 
+ex4start: 25, 510, ex4end: 145, 390, 
+ex5start: 270, 510, ex5end: 690, 30 
+exSpeed: 9999, 8, 6, 4
