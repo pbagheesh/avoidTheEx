@@ -1,5 +1,7 @@
 # Avoid The Ex
 
+![alt text](https://imgur.com/gallery/cmeuT)
+
 To run this game you will first have to install pygame, to do so you may have to install a python package manager: https://packaging.python.org/installing/ 
 
 Once you have this installed you can easily install pygame : http://www.pygame.org/readme.html
