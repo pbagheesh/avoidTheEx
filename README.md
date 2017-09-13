@@ -1,5 +1,5 @@
 # Avoid The Ex
-![Alt text](/welcomeScreen.jpg?raw=true "Optional Title")
+![Alt text](/welcomeScreen.jpg?raw=true "Welcome Screen for avoidTheEx")
 
 To run this game you will first have to install pygame, to do so you may have to install a python package manager: https://packaging.python.org/installing/ 
 
