@@ -1,6 +1,8 @@
 # Avoid The Ex
 [[https://github.com/pbagheesh/avoidTheEx/blob/master/welcomeScreen.png|alt=octocat]]
 
+https://github.com/pbagheesh/avoidTheEx/blob/master/welcomeScreen.png
+
 To run this game you will first have to install pygame, to do so you may have to install a python package manager: https://packaging.python.org/installing/ 
 
 Once you have this installed you can easily install pygame : http://www.pygame.org/readme.html
