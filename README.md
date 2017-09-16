@@ -12,12 +12,13 @@ Dates are exciting, Exes not as much. Navigate the map and reach your date on ti
 
 ![](https://github.com/pbagheesh/avoidTheEx/blob/master/thematicElements.png)
 
-# Player Feedback !:
+# Player Feedback !
 
 Our classmates loved it, we hope you do too :D
 
 P.S 7 of our classmates rage quit, so dont get disheartened if you dont succeed at first 
 ![](https://github.com/pbagheesh/avoidTheEx/blob/master/players.jpg)
+*Picture: The entire class hooked as they attempt to beat avoidTheEx
 
 # Set Up Instructions:
 
